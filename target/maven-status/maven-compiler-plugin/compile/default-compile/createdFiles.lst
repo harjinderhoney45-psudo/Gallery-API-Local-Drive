@@ -1,0 +1,5 @@
+com\example\gallery\service\FileService.class
+com\example\gallery\dto\FileResponse.class
+com\example\gallery\exception\GlobalExceptionHandler.class
+com\example\gallery\GalleryApplication.class
+com\example\gallery\controller\GalleryController.class
